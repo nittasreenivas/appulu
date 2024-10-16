@@ -9,4 +9,7 @@ soujanya : 3k
 rajyalakshmi friend : 50k
 padma: 65k 
 chaaari: 1.2L
-srikanth : 1L
+srikanth : 1L 
+sujatha tb : 500
+ng : 17 
+gold : 1.1
